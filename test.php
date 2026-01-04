@@ -1,3 +1,3 @@
 <?php
-echo "new php new file";
+echo "new file";
 ?>
